@@ -1,2 +1,4 @@
 Line 1: Initial content
-Line 2: Remote branch change
+
+Line 2: Merged Remote branch change and local change without commit
+
